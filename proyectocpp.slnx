@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../act 05 IAA/act 05 IAA.vcxproj" Id="002375a9-a0db-47cd-81b1-79bd2ba3ad09" />
+  <Project Path="../act 05 IA v2/act 05 IA v2.vcxproj" Id="11ed25df-2929-4c5c-b738-cc6bd5863951" />
   <Project Path="proyectocpp.vcxproj" Id="eb9aaee1-1ec7-41e8-b339-aa96debfb0b5" />
 </Solution>
